@@ -1,20 +1,20 @@
 <!-- ===== Header banner ===== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:000000&height=180&section=header&text=Yanfei%20Dai&fontColor=ffffff&fontSize=46&fontAlignY=35&desc=ML%20Scientist%20%C2%B7%20Bay%20Area&descAlignY=58&descSize=18" width="100%" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=180&section=header&text=Yanfei%20Dai&fontColor=ffffff&fontSize=46&fontAlignY=35&desc=ML%20Scientist%20%C2%B7%20Bay%20Area&descAlignY=58&descSize=18" width="100%" alt="header"/>
 </p>
 
 <!-- ===== Animated tagline ===== -->
 <p align="center">
   <a href="https://yanfei.info">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B949E&center=true&vCenter=true&width=720&lines=I+build+ML+systems+that+decide+and+act.;Agentic+AI+%C2%B7+LLM+%C2%B7+Multi-Agent+Orchestration;Fraud+Detection+%C2%B7+Recommendation+Systems" alt="typing"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2DD4BF&center=true&vCenter=true&width=720&lines=I+build+ML+systems+that+decide+and+act.;Agentic+AI+%C2%B7+LLM+%C2%B7+Multi-Agent+Orchestration;Fraud+Detection+%C2%B7+Recommendation+Systems" alt="typing"/>
   </a>
 </p>
 
 <!-- ===== Quick links ===== -->
 <p align="center">
-  <a href="https://yanfei.info"><img src="https://img.shields.io/badge/Website-yanfei.info-0D1117?style=for-the-badge&logo=safari&logoColor=white"/></a>
-  <a href="mailto:yd429@cornell.edu"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-30363D?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/yanfeid"><img src="https://komarev.com/ghpvc/?username=yanfeid&style=for-the-badge&color=0d1117&label=Profile+views"/></a>
+  <a href="https://yanfei.info"><img src="https://img.shields.io/badge/Website-yanfei.info-0F2027?style=for-the-badge&logo=safari&logoColor=2DD4BF"/></a>
+  <a href="mailto:yd429@cornell.edu"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-203A43?style=for-the-badge&logo=gmail&logoColor=2DD4BF"/></a>
+  <a href="https://github.com/yanfeid"><img src="https://komarev.com/ghpvc/?username=yanfeid&style=for-the-badge&color=2C5364&label=Profile+views"/></a>
 </p>
 
 ---
@@ -54,8 +54,8 @@ for fun.
 ### 📊 GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yanfeid&show_icons=true&hide_border=true&bg_color=00000000&title_color=8B949E&text_color=8B949E&icon_color=8B949E&ring_color=8B949E&hide=contribs&card_width=420" height="165" alt="stats"/>
-  <img src="https://github-readme-streak-stats.demolab.com/?user=yanfeid&hide_border=true&background=00000000&ring=8B949E&fire=8B949E&stroke=8B949E&currStreakNum=8B949E&sideNums=8B949E&currStreakLabel=8B949E&sideLabels=8B949E&dates=8B949E" height="165" alt="streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yanfeid&show_icons=true&hide_border=true&bg_color=00000000&title_color=2DD4BF&text_color=8B949E&icon_color=2DD4BF&ring_color=2DD4BF&hide=contribs&card_width=420" height="165" alt="stats"/>
+  <img src="https://github-readme-streak-stats.demolab.com/?user=yanfeid&hide_border=true&background=00000000&ring=2DD4BF&fire=2DD4BF&stroke=8B949E&currStreakNum=2DD4BF&sideNums=2DD4BF&currStreakLabel=8B949E&sideLabels=8B949E&dates=8B949E" height="165" alt="streak"/>
 </p>
 
 <!-- ===== Contribution-graph snake (auto-generated daily by .github/workflows/snake.yml) ===== -->
