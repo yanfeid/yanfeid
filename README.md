@@ -1,6 +1,6 @@
 <!-- ===== Header banner ===== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:EC4899&height=180&section=header&text=Yanfei%20Dai&fontColor=ffffff&fontSize=46&fontAlignY=35&desc=ML%20Scientist%20%C2%B7%20Bay%20Area&descAlignY=58&descSize=18" width="100%" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:000000&height=180&section=header&text=Yanfei%20Dai&fontColor=ffffff&fontSize=46&fontAlignY=35&desc=ML%20Scientist%20%C2%B7%20Bay%20Area&descAlignY=58&descSize=18" width="100%" alt="header"/>
 </p>
 
 <!-- ===== Animated tagline ===== -->
