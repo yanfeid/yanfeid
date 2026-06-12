@@ -1,6 +1,6 @@
 <!-- ===== Header banner ===== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:EC4899&height=180&section=header&text=Yanfei%20(David)%20Dai&fontColor=ffffff&fontSize=42&fontAlignY=35&desc=ML%20Scientist%20%C2%B7%20Bay%20Area%20%C2%B7%20Open%20to%20work&descAlignY=58&descSize=18" width="100%" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:EC4899&height=180&section=header&text=Yanfei%20Dai&fontColor=ffffff&fontSize=46&fontAlignY=35&desc=ML%20Scientist%20%C2%B7%20Bay%20Area&descAlignY=58&descSize=18" width="100%" alt="header"/>
 </p>
 
 <!-- ===== Animated tagline ===== -->
@@ -31,19 +31,8 @@ RecSys       →  deep CTR ranking, multi-objective, two-tower retrieval
 I’m currently researching **in-context learning with Claude Fable**, building
 **multi-agent fraud investigation** systems, and chasing a few other ambitious ideas at the
 edge of agents and large-scale ML — self-improving pipelines, LLM-as-investigator
-workflows, and autonomous research agents.
-
----
-
-### 🛠 Selected Work
-
-| Project | What it does | |
-|---|---|:--:|
-| **[agentic-fraud-analysis](https://github.com/yanfeid/agentic-fraud-analysis)** | Multi-agent fraud management on **MCP** — agents that investigate, cross-check, and escalate real cases | ⭐ 6 |
-| **[ml-pipeline-agent](https://github.com/yanfeid/ml-pipeline-agent)** | LLM agent that automates DAG-based ML pipeline migration, from config parsing to opening the PR | ⭐ 4 |
-| **[core_shopping_recsys](https://github.com/yanfeid/core_shopping_recsys)** | Modular e-commerce RecSys — DIN · DIEN · DCNv2 · BST · Two-Tower · XGBoost Ranker | ⭐ 3 |
-| **[Investigator-AI](https://github.com/yanfeid/Investigator-AI)** | Multi-agent fraud investigator with RAG + workflow orchestration — cuts case time **6h → 90min** | |
-| **[rlhf-alignment-template](https://github.com/yanfeid/rlhf-alignment-template)** | End-to-end LLM alignment: SFT → reward modeling → policy optimization, with eval dashboards | |
+workflows, and autonomous research agents. Lately I’ve also been **vibe-coding 3D games**
+for fun.
 
 ---
 
