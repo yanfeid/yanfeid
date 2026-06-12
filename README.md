@@ -28,9 +28,10 @@ Fraud & Risk →  anomaly detection, feature attribution, human-in-the-loop revi
 RecSys       →  deep CTR ranking, multi-objective, two-tower retrieval
 ```
 
-I’m currently building **multi-agent fraud investigation** on MCP and **DAG-based ML
-pipeline automation** — agents that reason over risk signals the way a human investigator
-does, and ship the migration as a pull request.
+I’m currently researching **in-context learning with Claude Fable**, building
+**multi-agent fraud investigation** systems, and chasing a few other ambitious ideas at the
+edge of agents and large-scale ML — self-improving pipelines, LLM-as-investigator
+workflows, and autonomous research agents.
 
 ---
 
