@@ -78,4 +78,13 @@ does, and ship the migration as a pull request.
   </picture>
 </p>
 
-<p align="center"><i>从大规模 RecSys 与风控，到会思考、会行动的 LLM 智能体。</i></p>
+---
+
+### 🎓 Affiliations
+
+<p>
+  <b>Cornell University</b> — Computing & Information Science · <a href="https://github.com/CornellCIS">@CornellCIS</a><br>
+  <b>Nanjing University</b> — LAMDA Lab · <a href="https://github.com/LAMDA-NJU">@LAMDA-NJU</a>
+</p>
+
+<p align="center"><i>From large-scale RecSys & risk systems to LLM agents that reason and act.</i></p>
