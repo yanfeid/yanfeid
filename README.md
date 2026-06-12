@@ -6,7 +6,7 @@
 <!-- ===== Animated tagline ===== -->
 <p align="center">
   <a href="https://yanfei.info">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=720&lines=I+build+ML+systems+that+decide+and+act.;Agentic+AI+%C2%B7+LLM+%C2%B7+Multi-Agent+Orchestration;Fraud+Detection+%C2%B7+Recommendation+Systems" alt="typing"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=000000&center=true&vCenter=true&width=720&lines=I+build+ML+systems+that+decide+and+act.;Agentic+AI+%C2%B7+LLM+%C2%B7+Multi-Agent+Orchestration;Fraud+Detection+%C2%B7+Recommendation+Systems" alt="typing"/>
   </a>
 </p>
 
